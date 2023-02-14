@@ -1,4 +1,4 @@
-# Tensor Abstraction of Traditional ML - Decision Tree / SVM
+# Tensor Abstraction of Traditional ML Models - Decision Tree / SVM
 
 ## Decision Tree
 
